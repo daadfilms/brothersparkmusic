@@ -33,7 +33,7 @@ A professional, dark-themed website for independent musicians to **sell music** 
 - Checkout button (ready to connect to Stripe or PayPal)
 
 ### 👑 Membership Tiers (3 tiers)
-- **Fan** — $4.99/mo · $49.99/yr
+- **Fan** — $3.99/mo · $39.99/yr
 - **Superfan** — $9.99/mo · $99.99/yr ⭐ Most Popular
 - **Inner Circle** — $24.99/mo · $249.99/yr
 - Monthly/Yearly billing toggle with savings indicator
